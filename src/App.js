@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className='App'>
-      <h1>Raw master</h1>
+      <h1>Rawfgg master</h1>
     </div>
   );
 }
