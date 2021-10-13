@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  margin-top: 5rem;
+}
+
+.container input {
+  height: 35px;
+  width: 300px;
+  border: none;
+  color: rgb(28, 38, 66);
+  outline: none;
+  padding-left: 10px;
+  border-bottom: 1px solid rgba(44, 44, 44, 0.205);
+  background-color: #dadada9f;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+input:focus {
+  border: none;
+}
+input::placeholder {
+  color: rgb(184, 184, 184);
+  /* font-size: 18px; */
+}
